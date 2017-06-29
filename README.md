@@ -57,11 +57,14 @@ The binary is called <a href="/webdav/zonkey.pl"><b>zonkey.pl</b></a>. ZonkeyNet
 <b>Description</b>:
 </p>
 <p>
-(ZonkeyNet Mesh Radio Network WebServer, Mumble Voip Server + PHPMumbleAdmin + BOT written in Ruby for Streaming music from youtube, soundcloud, and also Radio online. Another BOT to deliver messages from chat on the Mumble server to IRC and vice versa.
+<b>SELF HOSTED SERVICES</b>
+</p>
+<p>
+ZonkeyNet Mesh Radio Network WebServer, Mumble Voip Server + PHPMumbleAdmin + BOT written in Ruby for Streaming music from youtube, soundcloud, and also Radio online. Another BOT to deliver messages from chat on the Mumble server to IRC and vice versa.
 EtherPad, Tor + OnionShare support, UnrealIRCD Server + BOT for IRC commands, searching on google, twitter, and much more.
 </p>
 <p>
-And of course the NEW BOTS to create a bridge between the ZonkeyNet server and your preferred IRC Channel
+And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/ZonkeyNet radio</b> users and your preferred <b>IRC</b> Channel
 </p>
           </ul>
         </div>
