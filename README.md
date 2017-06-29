@@ -1,6 +1,6 @@
 # ZonkeyNet
 <b>Communicate directly, without using Internet or cellular infrastructure.</b>
-<a href="http://localhost:8080" target="_blank" title="ZonkeyNet Mesh Network"><b>ZonkeyNet</b></a> (based on <b>Airchat</b> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive, 
+<a href="http://localhost:8080" target="_blank" title="ZonkeyNet Mesh Network"><b>ZonkeyNet</b></a> (based on <a href="https://github.com/lulzlabs/AirChat/blob/master/airchat.pl" target="_blank" title="AirChat Code GitHub"><b>Airchat</b></a> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive, 
                 highly-surveilled commercial and government controlled infrastructure.
 <b>Create a mesh network</b>" between other ZonkeyNet users running the same software.</b>
 
@@ -60,8 +60,8 @@ The binary is called <a href="/webdav/zonkey.pl"><b>zonkey.pl</b></a>. ZonkeyNet
 <b>SELF HOSTED SERVICES</b>
 </p>
 <p>
-ZonkeyNet Mesh Radio Network WebServer, Mumble Voip Server + PHPMumbleAdmin + BOT written in Ruby for Streaming music from youtube, soundcloud, and also Radio online. Another BOT to deliver messages from chat on the Mumble server to IRC and vice versa.
-EtherPad, Tor + OnionShare support, UnrealIRCD Server + BOT for IRC commands, searching on google, twitter, and much more.
+ZonkeyNet Mesh Radio Network WebServer, Mumble Voip Server + PHPMumbleAdmin + BOT written in Ruby for streaming music from youtube, soundcloud, and also radio online. Another BOT to deliver messages from chat on the Mumble server to IRC and vice versa.
+ZonkeyPad based on <a href="ttps://github.com/ether/etherpad-lite" title="_blank" title="EtherPad-lite on GitHub">EtherPad</a> + plugin (Draw, pad preview image and more, Tor + OnionShare support, UnrealIRCD Server + BOT for IRC commands, searching on google, twitter, and much more.
 </p>
 <p>
 And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/ZonkeyNet radio</b> users and your preferred <b>IRC</b> Channel
