@@ -26,7 +26,9 @@ Some useful commands in ZonkeyNet:
 <p>
 :tweet (Send Tweet with ZonkeyNet) 
 </p>
+<p>
 :searchtwitter= (Search term or hashtag on Twitter)
+</p>
 <p>
 :sup? (Streaming Feeds (list links)
 </p>
@@ -48,5 +50,18 @@ The binary is called <a href="/webdav/zonkey.pl"><b>zonkey.pl</b></a>. ZonkeyNet
                          <p>
                              So how does it feel when you are communicating freely? it feels great...fucking great.
                         </p>
+<p>
+<b>RASPBERRY PI 3 Full Image iso link</b>: SOON! 
+</p>
+<p>
+<b>Description</b>:
+</p>
+<p>
+(ZonkeyNet Mesh Radio Network WebServer, Mumble Voip Server + PHPMumbleAdmin + BOT written in Ruby for Streaming music from youtube, soundcloud, and also Radio online. Another BOT to deliver messages from chat on the Mumble server to IRC and vice versa.
+EtherPad, Tor + OnionShare support, UnrealIRCD Server + BOT for IRC commands, searching on google, twitter, and much more.
+</p>
+<p>
+And of course the NEW BOTS to create a bridge between the ZonkeyNet server and your preferred IRC Channel
+</p>
           </ul>
         </div>
