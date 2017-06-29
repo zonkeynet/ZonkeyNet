@@ -31,5 +31,5 @@ for line in handle:
         if msg.startswith("!radio"): #resend only !radio msgs
             sender = line.split("!")[0].replace(":","")
             #Post Request to AirChat Webserver
-            r = requests.post('http://localhost:8080', data={"postfield":sender + ": " + msg}) #AirChat_WebServer_Address
+            r = requests.post('http://localhost:8080', data={"postfield":sender + ": " + msg}) #AirChat/ZonkeyNet_WebServer_Address
             time.sleep(10) #10 seconds
