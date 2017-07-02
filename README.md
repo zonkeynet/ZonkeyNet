@@ -40,15 +40,35 @@ Some useful commands in ZonkeyNet:
 :news? (Streaming News (list links)
 </p>
 <p>
-more coming!!!
+!google (Search on google) 
+</p>
+<p>
+!weather (Info Meteo) 
+</p>
+<p>
+!wolf (Wolfram Alpha engine) 
+</p>
+<p>
+!twitter (Search term or hashtag on Twitter) 
+</p>
+<p>
+!youtube (Search video or artists on Youtube) 
+</p>
+<p>
+!wiki (Search on Wikipedia) 
+</p>
+<p>
+!np (LastFM plugin) 
+</p>
+and much more!!!
 </p>
 <p>
 /home/pi/ZonkeyNet/.AirChatsettings</tt> is the main configuration file. It puts the pieces together by including all remaining configuration files when starting up the web server.
-The binary is called <a href="/webdav/zonkey.pl"><b>zonkey.pl</b></a>. ZonkeyNet and Fldigi can be started/stopped with commands "<tt><b>zonkeynet start</b></tt>" or "<tt><b>zonkeynet stop</b>"</tt> typed in a terminal shell.
+The binary is called <b>zonkey.pl</b></a>. ZonkeyNet and Fldigi can be started/stopped with commands "<tt><b>zonkeynet start</b></tt>" or "<tt><b>zonkeynet stop</b>"</tt> typed in a terminal shell.
  You can also run the script by double clicking on its Desktop icon.
  </p>
 <p>
-<b>#Notes</b> ZonkeyNet runs by default on port <b>8080</b>, connect your browser to <a href="http://localhost:8080" target="_blank" title="ZonkeyNet Mesh Network"><b>http://localhost:8080</b></a>
+<b>#Notes</b> ZonkeyNet runs by default on port <b>8080</b>, connect your browser to <b>http://localhost:8080</b></a>
 (Internet access can be <b>anonymized</b> via <a href="https://www.torproject.org/" <b="">Tor</a> and the built in proxy support).
 </p>
                          <p>
