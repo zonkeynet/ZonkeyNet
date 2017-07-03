@@ -4,12 +4,12 @@ import time
 
 
 nick = "airbotTX"
-network = "127.0.0.1"
+network = "127.0.0.1" # Your favorite IRC
 port = 6667
 irc = socket.socket()
 handle = irc.makefile(mode = "rw", buffering = 1, encoding = "utf-8", newline = "\r\n")
 
-chan = "#zonkeynet"
+chan = "#zonkeynet" # Your Chan
 irc.connect((network, port))
 
 print("PASS *", file = handle)
@@ -29,8 +29,10 @@ for line in handle:
             flag1 = False
     elif "PRIVMSG" in line:
         msg = ":".join(line.split(":")[2:])
-        if msg.startswith("!radio"):  # only !radio msgs
-            sender = line.split("!")[0].replace(":", "")
-                           # first a test
-            r = requests.post('http://localhost:8080', data={"postfield":sender + ": " + msg})
-            time.sleep(10)  # 10 seconds for the RADIO mode PSK500R - 4 for PSK1000R mode
+        #if msg.startswith("!radio"):  # send only with !radio msgs
+        if msg.startswith("!"): # use ! in front of msgs in order to remove the receive confirmation loop of msgs
+         continue        
+        sender = line.split("!")[0].replace(":", "")
+        #Send to Radio via local WebServer 
+        r = requests.post('http://localhost:8080', data={"postfield":sender + ": " + msg})
+        time.sleep(10)  # Wait 10 seconds to send via radio mode PSK500R - 4 for mode PSK1000R
