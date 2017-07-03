@@ -4,7 +4,7 @@
 <b><h2>Radiocommunications in Emergency</h2></b>
 </p>
 <p>
-<a href="http://localhost:8080" target="_blank" title="ZonkeyNet Mesh Network"><b>ZonkeyNet</b></a> (based on <a href="https://github.com/lulzlabs/AirChat/blob/master/airchat.pl" target="_blank" title="AirChat Code GitHub"><b>Airchat</b></a> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive, 
+<b>ZonkeyNet</b> (based on <a href="https://github.com/lulzlabs/AirChat/blob/master/airchat.pl" target="_blank" title="AirChat Code GitHub"><b>Airchat</b></a> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive, 
                 highly-surveilled commercial and government controlled infrastructure.
 <b>Create a mesh network</b>" between other ZonkeyNet users running the same software.</b>
 </p>
@@ -19,7 +19,7 @@ The configuration system is <b>fully documented in <a href="http://localhost:808
 Refer to this for the full documentation.
 </p>
 <p>
-Some useful commands in ZonkeyNet:
+<b>Some useful commands in ZonkeyNet:</b>
 </p>
 <p>
 :local (Send local Messages) 
@@ -63,17 +63,16 @@ Some useful commands in ZonkeyNet:
 and much more!!!
 </p>
 <p>
-/home/pi/ZonkeyNet/.AirChatsettings</tt> is the main configuration file. It puts the pieces together by including all remaining configuration files when starting up the web server.
-The binary is called <b>zonkey.pl</b></a>. ZonkeyNet and Fldigi can be started/stopped with commands "<tt><b>zonkeynet start</b></tt>" or "<tt><b>zonkeynet stop</b>"</tt> typed in a terminal shell.
+<b>.AirChatsettings</b> is the main configuration file. It puts the pieces together by including all remaining configuration files when starting up the web server.
+The binary is called <b>zonkey.pl</b></a>. ZonkeyNet and Fldigi can be started/stopped with commands "<tt><b>zonkeynet start:stop:restart</b>" typed in a terminal shell.
  You can also run the script by double clicking on its Desktop icon.
  </p>
 <p>
 <b>#Notes</b> ZonkeyNet runs by default on port <b>8080</b>, connect your browser to <b>http://localhost:8080</b></a>
 (Internet access can be <b>anonymized</b> via <a href="https://www.torproject.org/" <b="">Tor</a> and the built in proxy support).
 </p>
-                         <p>
-                             So how does it feel when you are communicating freely? it feels great...fucking great.
-                        </p>
+<p>
+</p>
 <p>
 <b>RASPBERRY PI 3 Full Image iso link</b>: SOON! 
 </p>
