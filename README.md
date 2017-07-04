@@ -1,24 +1,36 @@
 # ZonkeyNet
+<pre>
+<code>
+   _  _   __________             __                               __   
+__| || |__\____    /____   ____ |  | __ ____ ___.__. ____   _____/  |_ 
+\   __   /  /     //  _ \ /    \|  |/ // __ <   |  |/    \_/ __ \   __\
+ |  ||  |  /     /(  <_> )   |  \    <\  ___/\___  |   |  \  ___/|  |  
+/_  ~~  _\/_______ \____/|___|  /__|_ \\___  > ____|___|  /\___  >__|  
+  |_||_|          \/          \/     \/    \/\/         \/     \/      
+      
+</code>
+</pre>
 <b><h1>Communicate directly, without using Internet or cellular infrastructure.</h1></b>
 <p>
 <b><h2>Radiocommunications in Emergency</h2></b>
 </p>
 <p>
-<b>ZonkeyNet</b> (based on <a href="https://github.com/lulzlabs/AirChat/blob/master/airchat.pl" target="_blank" title="AirChat Code GitHub"><b>Airchat</b></a> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive, 
-                highly-surveilled commercial and government controlled infrastructure.
+<b>ZonkeyNet</b> (based on <a href="https://github.com/lulzlabs/AirChat/blob/master/airchat.pl" target="_blank" title="AirChat Code GitHub"><b>Airchat</b></a> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive,highly-surveilled commercial and government controlled infrastructure.
 <b>Create a mesh network</b>" between other ZonkeyNet users running the same software.</b>
 </p>
                 Each node in this mesh network is defined by it’s ability to decrypt messages.
                 There’s no hardware ID, and no plain text transmitter identification.
 <p>             
-The project uses <a href="http://sourceforge.net/projects/fldigi/files/" target="_blank" title="Fldigi Files"><b>Fldigi software</b></a> to communicate data it’s the software commonly used to broadcast amateur radio stations from a computer.
-The current release right now focuses on messaging and it can be used as a simplistic message board inside a <b>LAN</b> and to rely communications between <b>radio nodes</b>. It has built-in internet gateway capabilities to offer users access to some basics such as <b>tweeting</b>, retrieving <b>twitter streams</b>, <b>downloading news</b>, <b>community related articles</b>, etc.
+The Radio project uses <a href="http://sourceforge.net/projects/fldigi/files/" target="_blank" title="Fldigi Files"><b>Fldigi software</b></a> to communicate data it’s the software commonly used to broadcast <b>amateur radio stations</b> from a computer.
+The current release right now focuses on messaging and it can be used as a simplistic message board inside a <b>LAN</b> and to rely communications between <b>radio nodes</b>. It has built-in internet gateway capabilities to offer users access to some basics such as <b>chat on IRC</b>, <b>tweeting</b>, retrieving <b>twitter streams</b>, <b>downloading news</b>, <b>community related articles</b>, etc.
 </p>
 <p>
-The configuration system is <b>fully documented in <a href="http://localhost:8080/About" target="_blank" title="ZonkeyNet Infos">ZonkeyNet</a></b>.
+The configuration system is <b>fully documented in <a href="LINKSOON" target="_blank" title="ZonkeyNet Infos">ZonkeyNet</a></b>.
 Refer to this for the full documentation.
 </p>
 <p>
+<hr>
+</hr>
 <b>Some useful commands in ZonkeyNet:</b>
 </p>
 <p>
@@ -63,11 +75,6 @@ Refer to this for the full documentation.
 and much more!!!
 </p>
 <p>
-<b>.AirChatsettings</b> is the main configuration file. It puts the pieces together by including all remaining configuration files when starting up the web server.
-The binary is called <b>zonkey.pl</b></a>. ZonkeyNet and Fldigi can be started/stopped with commands "<tt><b>zonkeynet start:stop:restart</b>" typed in a terminal shell.
- You can also run the script by double clicking on its Desktop icon.
- </p>
-<p>
 <b>#Notes</b> ZonkeyNet runs by default on port <b>8080</b>, connect your browser to <b>http://localhost:8080</b></a>
 (Internet access can be <b>anonymized</b> via <a href="https://www.torproject.org/" <b="">Tor</a> and the built in proxy support).
 </p>
@@ -75,6 +82,11 @@ The binary is called <b>zonkey.pl</b></a>. ZonkeyNet and Fldigi can be started/s
 </p>
 <p>
 <b>RASPBERRY PI 3 Full Image iso link</b>: SOON! 
+</p>
+<p>
+<b>.AirChatsettings</b> is the main configuration file. It puts the pieces together by including all remaining configuration files when starting up the web server.
+The binary is called <b>zonkey.pl</b>. ZonkeyNet and Fldigi can be started/stopped with commands "<tt><b>zonkeynet start:stop:restart</b>" typed in a terminal shell.
+ You can also run the script by double clicking on its Desktop icon.
 </p>
 <p>
 <b>Description</b>:
@@ -90,5 +102,3 @@ ZonkeyPad based on <a href="https://github.com/ether/etherpad-lite" target="_bla
 <p>
 And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/ZonkeyNet radio</b> users and your preferred <b>IRC</b> Channel
 </p>
-          </ul>
-        </div>
