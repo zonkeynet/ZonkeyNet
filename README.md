@@ -84,6 +84,9 @@ and much more!!!
 ZonkeyNet Mesh Radio Network WebServer, <a href="http://wiki.mumble.info/wiki/Main_Page" target="_blank" title="Mumble wiki">Mumble Voip Server</a> + <a href="http://sourceforge.net/p/phpmumbleadmin/wiki/" target="_blank" title="PHPMumbleAdmin Wiki">PHPMumbleAdmin</a> + <a href="https://bitbucket.org/Flandoo/mumblecop" target="_blank" title="MumbleCop">BOT written in Ruby</a> for streaming music from youtube, soundcloud, and also radio online. Another <a href="https://github.com/SFTtech/sftmumblebotBOT" target="_blank" title="sftmumblebot Mumble/IRC"> BOT</a> to deliver messages from chat on the Mumble server to IRC and vice versa.
 ZonkeyTube HTML GUI based on <a href="https://github.com/Rudloff/alltube" target="_blank" title="Alltube on GitHub">Alltube</a> code in order to extract a video URL from a webpage.
 ZonkeyPad based on <a href="https://github.com/ether/etherpad-lite" target="_blank" title="EtherPad-lite on GitHub">EtherPad</a> + plugin (Draw, pad preview image and more, Tor + <a href="https://onionshare.org/" target="_blank" title="OnionShare">OnionShare</a> support, <a href="https://www.unrealircd.org/" target="_blank" title="UnrealIRCd">UnrealIRCd</a> Server + <a href="https://github.com/Grinnz/maverick" target="_blank" title="GitHub Mojo::IRC Bot framework">BOT for IRC commands</a>, searching on google, twitter, and much more.
+<p>
+And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/ZonkeyNet radio</b> users and your preferred <b>IRC</b> Channel
+</p>
 </p>
 <p>
 </p>
@@ -97,7 +100,4 @@ ZonkeyPad based on <a href="https://github.com/ether/etherpad-lite" target="_bla
 <b>.AirChatsettings</b> is the main configuration file. It puts the pieces together by including all remaining configuration files when starting up the web server.
 The binary is called <b>zonkey.pl</b>. ZonkeyNet and Fldigi can be started/stopped with commands "<tt><b>zonkeynet (start:stop:restart)</b></tt>" typed in a terminal shell.
  You can also run the script by double clicking on its Desktop icon.
-</p>
-<p>
-And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/ZonkeyNet radio</b> users and your preferred <b>IRC</b> Channel
 </p>
