@@ -26,12 +26,10 @@ The current release right now focuses on messaging and it can be used as a simpl
 <p>
 The configuration system is <b>fully documented in <a href="https://github.com/lulzlabs/AirChat/blob/master/README.md" target="_blank" title="ZonkeyNet Infos">ZonkeyNet</a></b>.
 Refer to this for the full documentation.
-</p>
-<p>
 <hr>
 </hr>
-<b>Some useful commands in ZonkeyNet:</b>
-</p>
+<b><h2>Commands</h2></b>
+Some useful commands in ZonkeyNet:
 <p>
 :local (Send local Messages) 
 </p>
