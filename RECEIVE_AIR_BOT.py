@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+"""
+AirBot RX - bridge between the Airchat/ZonkeyNet radio users & your preferred IRC 
+by valexxx (valexxx@autistici.org)
+Receive messages sent by radio on IRC channels
+"""
+################################################################### 
+# Code from project: ZonkeyNet (Mesh Radio Networks)
+###################################################################
+
 import irc.client
 import json
 import logging
@@ -7,12 +17,12 @@ import collections
 import thread
 
 
-channel_name = "#zonkeynetradio"
-log_file_path = "/home/pi/ZonkeyNet/.AirChatLog.json"
-IRC_server_address = "127.0.0.1"
+channel_name = "#zonkeynet" #chan on IRC
+log_file_path = "/YourFolder/.AirChatLog.json" #Change with your AirChat/Zonkey folder
+IRC_server_address = "127.0.0.1" #Change it with your favorite IRC server
 IRC_nickname = "airBOT_test"
 
-NEW_MSGS_ONLY = True
+NEW_MSGS_ONLY = True #change to False If you want to post all messages trasmitted
 
 old_msgs = {}
 f2 = open(log_file_path)
@@ -59,7 +69,7 @@ def send_all_logged_msgs():
 
 irc.client.ServerConnection.buffer_class = buffer.LenientDecodingLineBuffer
 
-logging.basicConfig(level = logging.DEBUG)  # comment out for debug
+#logging.basicConfig(level = logging.DEBUG)  # comment out for debug
 irc_client1 = irc.client.Reactor()
 server1 = irc_client1.server()
 server1.connect(IRC_server_address, 6667, IRC_nickname)
