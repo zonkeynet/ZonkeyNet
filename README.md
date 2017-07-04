@@ -7,7 +7,6 @@ __| || |__\____    /____   ____ |  | __ ____ ___.__. ____   _____/  |_
  |  ||  |  /     /(  <_> )   |  \    <\  ___/\___  |   |  \  ___/|  |  
 /_  ~~  _\/_______ \____/|___|  /__|_ \\___  > ____|___|  /\___  >__|  
   |_||_|          \/          \/     \/    \/\/         \/     \/      
-      
 </code>
 </pre>
 <b><h1>Communicate directly, without using Internet or cellular infrastructure.</h1></b>
@@ -85,7 +84,7 @@ and much more!!!
 </p>
 <p>
 <b>.AirChatsettings</b> is the main configuration file. It puts the pieces together by including all remaining configuration files when starting up the web server.
-The binary is called <b>zonkey.pl</b>. ZonkeyNet and Fldigi can be started/stopped with commands "<tt><b>zonkeynet start:stop:restart</b>" typed in a terminal shell.
+The binary is called <b>zonkey.pl</b>. ZonkeyNet and Fldigi can be started/stopped with commands "<tt><b>zonkeynet (start:stop:restart)</b></tt>" typed in a terminal shell.
  You can also run the script by double clicking on its Desktop icon.
 </p>
 <p>
