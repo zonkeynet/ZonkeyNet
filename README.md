@@ -10,7 +10,7 @@ __| || |__\____    /____   ____ |  | __ ____ ___.__. ____   _____/  |_
                                                                     ver 1.0
 </code>
 </pre>
-<b><h1>Communicate easily without Internet or Mobile phone.</h1></b>
+<b><h1>Communicate worldwide without Internet or Mobile phone.</h1></b>
 <p>
 <b><h2>Emergency Radiocommunications</h2></b>
 </p>
