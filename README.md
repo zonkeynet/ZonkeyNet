@@ -12,9 +12,9 @@ __| || |__\____    /____   ____ |  | __ ____ ___.__. ____   _____/  |_
 <b><h1>Communicate directly, without using Internet or cellular infrastructure.</h1></b>
 <p>
 <b><h2>Radiocommunications in Emergency</h2></b>
-<b>ZonkeyNet</b> Can do its job even in case of media infrastructures failure, e.g. in case of earthquake or flood...
-<b>ZonkeyNet</b> does not use Radio bridges or Internet Provider infrastructures, so ZonkeyNet will work even in case of natural disaster or a war.
-ZonkeyNet uses cheap, simple and portable infrastructures which everyone can build. The coverage of a ZonkeyNet repeater station depends on your radio equipment: a stronger signal is capable of withstanding successive passages through obstacles, allowing it to travel farther.
+<b>ZonkeyNet</b> Can do its job even in case of media infrastructures failure, e.g. in case of earthquake or flood: 
+<b>ZonkeyNet</b> does not use Radio bridges or Internet Provider infrastructures, so it will work even in case of natural disaster or a war.
+<b>ZonkeyNet</b> uses cheap, simple and portable infrastructures which everyone can build. The coverage of a repeater station depends on your radio equipment: a stronger signal is capable of withstanding successive passages through obstacles, allowing it to travel farther.
 
 Nevertheless local orography and weather conditions may influence the transmission. For more informations about this aspect follow this link.
 </p>
