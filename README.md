@@ -10,9 +10,9 @@ __| || |__\____    /____   ____ |  | __ ____ ___.__. ____   _____/  |_
                                                                     ver 1.0
 </code>
 </pre>
-<b><h1>Communicate directly, without using Internet or cellular infrastructure.</h1></b>
+<b><h1>Communicate easily without Internet or Mobile phone.</h1></b>
 <p>
-<b><h2>Radiocommunications in Emergency</h2></b>
+<b><h2>Emergency Radiocommunications</h2></b>
 </p>
 <p>
 <b>ZonkeyNet</b> (based on <a href="https://github.com/lulzlabs/AirChat/blob/master/airchat.pl" target="_blank" title="AirChat Code GitHub"><b>Airchat</b></a> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive,highly-surveilled commercial and government controlled infrastructure.
