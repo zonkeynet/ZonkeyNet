@@ -7,26 +7,22 @@ __| || |__\____    /____   ____ |  | __ ____ ___.__. ____   _____/  |_
  |  ||  |  /     /(  <_> )   |  \    <\  ___/\___  |   |  \  ___/|  |  
 /_  ~~  _\/_______ \____/|___|  /__|_ \\___  > ____|___|  /\___  >__|  
   |_||_|          \/          \/     \/    \/\/         \/     \/      
+                                                                    ver 1.0
 </code>
 </pre>
 <b><h1>Communicate directly, without using Internet or cellular infrastructure.</h1></b>
 <p>
 <b><h2>Radiocommunications in Emergency</h2></b>
-<b>ZonkeyNet</b> Can do its job even in case of media infrastructures failure, e.g. in case of earthquake or flood: 
-<b>ZonkeyNet</b> does not use Radio bridges or Internet Provider infrastructures, so it will work even in case of natural disaster or a war.
-<b>ZonkeyNet</b> uses cheap, simple and portable infrastructures which everyone can build. The coverage of a repeater station depends on your radio equipment: a stronger signal is capable of withstanding successive passages through obstacles, allowing it to travel farther.
-
-Nevertheless local orography and weather conditions may influence the transmission. For more informations about this aspect follow this link.
 </p>
 <p>
-<b>ZonkeyNet</b> (based on <a href="https://github.com/lulzlabs/AirChat/blob/master/airchat.pl" target="_blank" title="AirChat Code GitHub"><b>Airchat</b></a> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive, highly-surveilled commercial and government controlled infrastructure.
-<b>Create a mesh network</b>" between other ZonkeyNet users running the same software.</b>
+<b>ZonkeyNet</b> (based on <a href="https://github.com/lulzlabs/AirChat/blob/master/airchat.pl" target="_blank" title="AirChat Code GitHub"><b>Airchat</b></a> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive,highly-surveilled commercial and government controlled infrastructure.
+<b>Create a mesh network</b> between other ZonkeyNet users running the same software.</b>
 Each node in this mesh network is defined by it’s ability to decrypt messages.
 There’s no hardware ID, and no plain text transmitter identification.
 </p>
 <p>             
-<b>ZonkeyNet</b> Mesh Network Radio project uses <a href="http://sourceforge.net/projects/fldigi/files/" target="_blank" title="Fldigi Files"><b>Fldigi software</b></a> to communicate data it’s the software commonly used to broadcast <b>amateur radio stations</b> from a computer.
-The current release at the moment focuses on messaging and it can be used as a simplistic message board inside a <b>LAN</b> and to rely communications between <b>radio nodes</b>. It has built-in internet gateway capabilities to offer users access to some basics such as <b>chat on IRC</b>, <b>tweeting</b>, retrieving <b>twitter streams</b>, <b>downloading news</b>, <b>community related articles</b>, <b>transfering images and small files</b>, etc..
+The Radio project uses <a href="http://sourceforge.net/projects/fldigi/files/" target="_blank" title="Fldigi Files"><b>Fldigi software</b></a> to communicate data it’s the software commonly used to broadcast <b>amateur radio stations</b> from a computer.
+The current release right now focuses on messaging and it can be used as a simplistic message board inside a <b>LAN</b> and to rely communications between <b>radio nodes</b>. It has built-in internet gateway capabilities to offer users access to some basics such as <b>chat on IRC</b>, <b>tweeting</b>, retrieving <b>twitter streams</b>, <b>downloading news</b>, <b>community related articles</b>, etc.
 </p>
 <p>
 The configuration system is <b>fully documented in <a href="https://github.com/lulzlabs/AirChat/blob/master/README.md" target="_blank" title="ZonkeyNet Infos">ZonkeyNet</a></b>.
@@ -92,6 +88,8 @@ ZonkeyPad based on <a href="https://github.com/ether/etherpad-lite" target="_bla
 <p>
 And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/ZonkeyNet radio</b> users and your preferred <b>IRC</b> Channel
 </p>
+<hr>
+</hr>
 </p>
 <p>
 </p>
