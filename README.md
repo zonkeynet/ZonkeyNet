@@ -12,9 +12,14 @@ __| || |__\____    /____   ____ |  | __ ____ ___.__. ____   _____/  |_
 <b><h1>Communicate directly, without using Internet or cellular infrastructure.</h1></b>
 <p>
 <b><h2>Radiocommunications in Emergency</h2></b>
+<b>ZonkeyNet</b> Can do its job even in case of media infrastructures failure, e.g. in case of earthquake or flood...
+<b>ZonkeyNet</b> does not use Radio bridges or Internet Provider infrastructures, so ZonkeyNet will work even in case of natural disaster or a war.
+ZonkeyNet uses cheap, simple and portable infrastructures which everyone can build. The coverage of a ZonkeyNet repeater station depends on your radio equipment: a stronger signal is capable of withstanding successive passages through obstacles, allowing it to travel farther.
+
+Nevertheless local orography and weather conditions may influence the transmission. For more informations about this aspect follow this link.
 </p>
 <p>
-<b>ZonkeyNet</b> (based on <a href="https://github.com/lulzlabs/AirChat/blob/master/airchat.pl" target="_blank" title="AirChat Code GitHub"><b>Airchat</b></a> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive,highly-surveilled commercial and government controlled infrastructure.
+<b>ZonkeyNet</b> (based on <a href="https://github.com/lulzlabs/AirChat/blob/master/airchat.pl" target="_blank" title="AirChat Code GitHub"><b>Airchat</b></a> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive, highly-surveilled commercial and government controlled infrastructure.
 <b>Create a mesh network</b>" between other ZonkeyNet users running the same software.</b>
 Each node in this mesh network is defined by it’s ability to decrypt messages.
 There’s no hardware ID, and no plain text transmitter identification.
