@@ -1,3 +1,13 @@
+#!/usr/bin/env python3
+"""
+AirBot TX - bridge between your preferred IRC to the Airchat/ZonkeyNet radio users
+by (valexxx@autistici.org)
+Send messages from IRC to radio
+"""
+################################################################### 
+# Code from project: ZonkeyNet (Mesh Radio Networks)
+###################################################################
+
 import socket
 import requests
 import time
