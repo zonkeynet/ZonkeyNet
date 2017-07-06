@@ -12,7 +12,7 @@ __| || |__\____    /____   ____ |  | __ ____ ___.__. ____   _____/  |_
 <b><h1>Communicate directly, without using Internet or cellular infrastructure.</h1></b>
 <p>
 <b><h2>Radiocommunications in Emergency</h2></b>
-<b>ZonkeyNet</b> Can do its job even in case of media infrastructures failure, e.g. in case of earthquake or flood: <b>ZonkeyNet</b> does not use Radio bridges or Internet Provider infrastructures, so it will work even in case of natural disaster or a war.<b>ZonkeyNet</b> uses cheap, simple and portable infrastructures which everyone can build. The coverage of a repeater station depends on your radio equipment: a stronger signal is capable of withstanding successive passages through obstacles, allowing it to travel farther.
+<b>ZonkeyNet</b> Can do its job even in case of media infrastructures failure, e.g. in case of earthquake or flood: <b>ZonkeyNet</b> does not use Radio bridges or Internet Provider infrastructures, so it will work even in case of natural disaster or a war <b>ZonkeyNet</b> uses cheap, simple and portable infrastructures which everyone can build. The coverage of a repeater station depends on your radio equipment: a stronger signal is capable of withstanding successive passages through obstacles, allowing it to travel farther.
 Nevertheless local orography and weather conditions may influence the transmission. For more informations about this aspect follow this link.
 <p>
 <b>ZonkeyNet</b> (based on <a href="https://github.com/lulzlabs/AirChat/blob/master/airchat.pl" target="_blank" title="AirChat Code GitHub"><b>Airchat</b></a> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive, highly-surveilled commercial and government controlled infrastructure.
@@ -82,7 +82,7 @@ and much more!!!
 <b><h3>SELF HOSTED SERVICES</h3></b>
 </p>
 <p>
-ZonkeyNet Mesh Radio Network WebServer, <a href="http://wiki.mumble.info/wiki/Main_Page" target="_blank" title="Mumble wiki">Mumble Voip Server</a> + <a href="http://sourceforge.net/p/phpmumbleadmin/wiki/" target="_blank" title="PHPMumbleAdmin Wiki">PHPMumbleAdmin</a> + <a href="https://bitbucket.org/Flandoo/mumblecop" target="_blank" title="MumbleCop">BOT written in Ruby</a> for streaming music from youtube, soundcloud, and also radio online. Another <a href="https://github.com/SFTtech/sftmumblebotBOT" target="_blank" title="sftmumblebot Mumble/IRC"> BOT</a> to deliver messages from chat on the Mumble server to IRC and vice versa.
+ZonkeyNet Mesh Radio Network WebServer + FLDIGI + CHIRP preinstalled, <a href="http://wiki.mumble.info/wiki/Main_Page" target="_blank" title="Mumble wiki">Mumble Voip Server</a> + <a href="http://sourceforge.net/p/phpmumbleadmin/wiki/" target="_blank" title="PHPMumbleAdmin Wiki">PHPMumbleAdmin</a> + <a href="https://bitbucket.org/Flandoo/mumblecop" target="_blank" title="MumbleCop">BOT written in Ruby</a> for streaming music from youtube, soundcloud, and also radio online. Another <a href="https://github.com/SFTtech/sftmumblebotBOT" target="_blank" title="sftmumblebot Mumble/IRC"> BOT</a> to deliver messages from chat on the Mumble server to IRC and vice versa.
 ZonkeyTube HTML GUI based on <a href="https://github.com/Rudloff/alltube" target="_blank" title="Alltube on GitHub">Alltube</a> code in order to extract a video URL from a webpage.
 ZonkeyPad based on <a href="https://github.com/ether/etherpad-lite" target="_blank" title="EtherPad-lite on GitHub">EtherPad</a> + plugin (Draw, pad preview image and more, Tor + <a href="https://onionshare.org/" target="_blank" title="OnionShare">OnionShare</a> support, <a href="https://www.unrealircd.org/" target="_blank" title="UnrealIRCd">UnrealIRCd</a> Server + <a href="https://github.com/Grinnz/maverick" target="_blank" title="GitHub Mojo::IRC Bot framework">BOT for IRC commands</a>, searching on google, twitter, and much more.
 <p>
@@ -95,7 +95,10 @@ And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/Zonk
 <b><h2>Installation :</h2></b>
 </p>
 <p>
-<b>RASPBERRY PI 3 Full Image iso link</b>: SOON! 
+<b>RASPBERRY PI 3 Full Image link</b>: SOON! 32GB
+</p>
+<p>
+<b>RASPBERRY PI 3 light Image link</b>: SOON! 16GB
 </p>
 <p>
 <b>.AirChatsettings</b> is the main configuration file. It puts the pieces together by including all remaining configuration files when starting up the web server.
