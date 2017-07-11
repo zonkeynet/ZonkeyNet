@@ -19,6 +19,7 @@ __| || |__\____    /____   ____ |  | __ ____ ___.__. ____   _____/  |_
 Nevertheless local orography and weather conditions may influence the transmission. For more informations about this aspect follow this <a href="https://github.com/zonkeynet/ZonkeyNet/wiki/Radio-info" target="_blank" title="Radio Info wiki"><b>link</b></a>.
 </p>
 <p>
+<b><h2>What is ZonkeyNet?</h2></b>
 <b>ZonkeyNet</b> (based on <a href="https://github.com/lulzlabs/AirChat/blob/master/airchat.pl" target="_blank" title="AirChat Code GitHub"><b>Airchat</b></a> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive, highly-surveilled commercial and government controlled infrastructure.
 <b>Create a mesh network</b>" between other ZonkeyNet users running the same software.</b>
 Each node in this mesh network is defined by it’s ability to decrypt messages.
