@@ -29,7 +29,7 @@ The configuration system is <b>fully documented in <a href="https://github.com/l
 Refer to this for the full documentation.
 <hr>
 </hr>
-<img src="https://www.dropbox.com/s/4f02k9a9al3vgo8/ZokeyNet_GUI.png?dl=0">
+<img src="https://github.com/zonkeynet/ZonkeyNet/blob/master/zonkeynet_screen.png">
 <b><h2>Commands</h2></b>
 Some useful commands in ZonkeyNet:
 <p>
