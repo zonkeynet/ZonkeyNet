@@ -27,7 +27,7 @@ The current release focuses on messaging and can be used as a simplistic message
 <p>
 The configuration system is <b>fully documented in <a href="https://github.com/lulzlabs/AirChat/blob/master/README.md" target="_blank" title="ZonkeyNet Infos">ZonkeyNet</a></b>.
 Refer to this for the full documentation.
-<img src="https://github.com/zonkeynet/ZonkeyNet/blob/master/zonkeynet_screen.png">
+<img src="https://github.com/zonkeynet/ZonkeyNet/blob/master/ZonkeyNet_GUI.png">
 <hr>
 </hr>
 <b><h2>Commands</h2></b>
