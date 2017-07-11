@@ -107,7 +107,6 @@ And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/Zonk
 <b>RASPBERRY PI 3 light Image link</b>: SOON! 16GB
 </p>
 <p>
-<b>.AirChatsettings</b> is the main configuration file. It puts the pieces together by including all remaining configuration files when starting up the web server.
 The binary is called <b>zonkey.pl</b>. ZonkeyNet and Fldigi can be started/stopped with commands "<tt><b>zonkeynet (start:stop:restart)</b></tt>" typed in a terminal shell.
  You can also run the script by double clicking on its Desktop icon.
 </p>
