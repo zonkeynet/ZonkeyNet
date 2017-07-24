@@ -43,10 +43,10 @@ Refer to this for the full documentation.
 Some useful commands in ZonkeyNet:
 </p>
 <p>
-:local (Send local Messages) 
+:local (Send local Messages LAN only) 
 </p>
 <p>
-:twitter (Streaming tweet from ZonkeyNet)
+:twitter (Streaming tweet from @ZonkeyNet account)
 </p>
 <p>
 :tweet (Send Tweet with ZonkeyNet) 
@@ -55,13 +55,16 @@ Some useful commands in ZonkeyNet:
 :searchtwitter= (Search term or hashtag on Twitter)
 </p>
 <p>
-:sup? (Streaming Feeds (list links)
+:sup? (Streaming Feeds RSS)
 </p>
 <p>
-:news? (Streaming News (list links)
+:news? (Streaming News from list of links)
 </p>
 <p>
-!google (Search on google) 
+!google (Search on Google) 
+</p>
+<p>
+!gdir (Google Maps Directions)
 </p>
 <p>
 !weather (Info Meteo) 
