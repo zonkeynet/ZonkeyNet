@@ -116,3 +116,4 @@ And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/Zonk
 The binary is called <b>zonkey.pl</b>. ZonkeyNet and Fldigi can be started/stopped with commands "<tt><b>zonkeynet (start:stop:restart)</b></tt>" typed in a terminal shell.
  You can also run the script by double clicking on its Desktop icon.
 </p>
+Licensed under the [MIT License] (LICENSE).
