@@ -91,7 +91,7 @@ Some useful commands in ZonkeyNet:
 !send (Send a Note to a IRC user) 
 </p>
 <p>
-!rss eq (Earthquake RSS Info ) 
+!equake (Earthquake RSS Info ) 
 </p>
 and much more!!!
 </p>
