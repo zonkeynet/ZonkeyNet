@@ -70,7 +70,10 @@ Some useful commands in ZonkeyNet:
 !weather (Info Meteo) 
 </p>
 <p>
-!wolf (Wolfram Alpha engine) 
+!alpha (Wolfram Alpha engine) 
+</p>
+<p>
+!sms (Send FREE SMS Worldwide) 
 </p>
 <p>
 !twitter (Search term or hashtag on Twitter) 
