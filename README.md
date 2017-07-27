@@ -87,6 +87,12 @@ Some useful commands in ZonkeyNet:
 <p>
 !np (LastFM plugin) 
 </p>
+<p>
+!send (Send a Note to a IRC user) 
+</p>
+<p>
+!rss eq (Earthquake RSS Info ) 
+</p>
 and much more!!!
 </p>
 <p>
