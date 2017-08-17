@@ -13,6 +13,9 @@ import collections
 import thread
 
 NEW_MSGS_ONLY = True
+# don't set it too low - may result with server ban!
+# (in seconds)
+WAIT_TO_RECONNECT = 30
 
 channel_name = "#ZonkeyNet"
 log_file_path = "/home/pi/ZonkeyNet/.AirChatLog.json"
@@ -31,6 +34,10 @@ def endofmotd(con1,event1):
     thread.start_new_thread(send_all_logged_msgs,())
     #send_all_logged_msgs()
 
+def disco(con1, event1):
+    time.sleep(WAIT_TO_RECONNECT)
+    server1.reconnect()
+    
 def send_all_logged_msgs():
     global old_msgs
     sent = {}
@@ -70,5 +77,6 @@ server1 = irc_client1.server()
 server1.connect(IRC_server_address, 6667, IRC_nickname)
 
 irc_client1.add_global_handler("endofmotd", endofmotd)
+irc_client1.add_global_handler("disconnect", disco)
 
 irc_client1.process_forever()
