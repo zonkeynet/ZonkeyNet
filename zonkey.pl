@@ -2600,6 +2600,7 @@ sub msg_advanced {
   <option value="PSK500R">PSK500R</option>  
   <option value="PSK1000R">PSK1000R</option>
   <option value="MFSK64">MFSK64-Image</option>  
+  <option value="MFSK128">MFSK128-Image</option>  
 
  <option value="PSK63RC5">PSK63RC5</option>
 <option value="PSK63RC10">PSK63RC10</option>
@@ -3092,6 +3093,7 @@ sub zonkey_settings {
   <option value="PSK500R">PSK500R</option>  
   <option value="PSK1000R">PSK1000R</option>
   <option value="MFSK64">MFSK64-Image</option>
+  <option value="MFSK128">MFSK128-Image</option>
 
   <option value="PSK63RC5">PSK63RC5</option>
 <option value="PSK63RC10">PSK63RC10</option>
