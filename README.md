@@ -73,6 +73,9 @@ Some useful commands in ZonkeyNet:
 !alpha (Wolfram Alpha engine) 
 </p>
 <p>
+!sms (Send FREE SMS Worldwide) 
+</p>
+<p>
 !twitter (Search term or hashtag on Twitter) 
 </p>
 <p>
@@ -83,6 +86,12 @@ Some useful commands in ZonkeyNet:
 </p>
 <p>
 !np (LastFM plugin) 
+</p>
+<p>
+!send (Send a Note to a IRC user) 
+</p>
+<p>
+!equake (Earthquake RSS Info ) 
 </p>
 and much more!!!
 </p>
