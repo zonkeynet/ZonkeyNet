@@ -21,13 +21,13 @@ Nevertheless local orography and weather conditions may influence the transmissi
 <p>
 <b><h2>What is ZonkeyNet?</h2></b>
 <b>ZonkeyNet</b> (based on <a href="https://github.com/lulzlabs/AirChat/blob/master/airchat.pl" target="_blank" title="AirChat Code GitHub"><b>Airchat</b></a> coded by <b>LulzSec</b>) is a <b>Free Speech</b> digital communications protocol that doesn’t deal with expensive, highly-surveilled commercial and government controlled infrastructure.
-<b>Create a mesh network</b>" between other ZonkeyNet users running the same software.</b>
+<b>Create a mesh network</b> between other ZonkeyNet users running the same software.</b>
 Each node in this mesh network is defined by it’s ability to decrypt messages.
 There’s no hardware ID, and no plain text transmitter identification.
 </p>
 <p>             
 <b>ZonkeyNet</b> Mesh Network Radio project uses <a href="http://sourceforge.net/projects/fldigi/files/" target="_blank" title="Fldigi Files"><b>Fldigi software</b></a> to communicate data it’s the software commonly used to broadcast <b>amateur radio stations</b> from a computer.
-The current release focuses on messaging and can be used as a simplistic message board inside a <b>LAN</b> and to rely communications between <b>radio nodes</b>. It has built-in internet gateway capabilities to offer users access to some basics, such as <b>chat on IRC</b>, <b>tweeting</b>, retrieving <b>twitter streams</b>, <b>downloading news</b>, <b>community related articles</b>, <b>transfering images and small files</b>, etc..
+The current release focuses on messaging and can be used as a simplistic message board inside a <b>LAN</b> and to rely communications between <b>radio nodes</b>. It has built-in internet gateway capabilities to offer users access to some basics, such as <b>chat on IRC</b>, <b>bridge messages on Telegram</b>, <b>tweeting</b>, retrieving <b>twitter streams</b>, <b>downloading news</b>, <b>community related articles</b>, <b>transfering images</b>, etc..
 </p>
 <p>
 The configuration system is <b>fully documented in <a href="https://github.com/lulzlabs/AirChat/blob/master/README.md" target="_blank" title="ZonkeyNet Infos">ZonkeyNet</a></b>.
