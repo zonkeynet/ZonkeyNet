@@ -12,11 +12,13 @@ __| || |__\____    /____   ____ |  | __ ____ ___.__. ____   _____/  |_
 </pre>
 <b><h1>Communicate easily without Internet or Mobile phone.</h1></b>
 <p>
-<b><h2>Emergency Radiocommunications</h2></b>
-<b>ZonkeyNet</b> Can do its job even in case of media infrastructures failure, e.g. in case of earthquake or flood: <b>ZonkeyNet</b> does not use Radio bridges or Internet Provider infrastructures, so it will work even in the event of natural disaster or war.  <b>ZonkeyNet</b> uses cheap, simple and portable infrastructures which everyone can build. The coverage of a repeater station depends on your radio equipment: a stronger signal is capable of withstanding successive passages through obstacles, allowing it to travel farther.
+<b><h2>Free digital Radiocommunications network service for everyone at low cost</h2></b>
+<b>ZonkeyNet</b> Can do its job even in case of media infrastructures failure, e.g. in case of earthquake or flood: <b>ZonkeyNet</b> does not use Radio bridges or Internet Provider infrastructures, so it will work even in the event of natural disaster or war.  <b>ZonkeyNet</b> uses cheap, simple and portable infrastructures which everyone can build. The system allready uses a simple <b>Raspberry PI 3</b> as hardware and works with Solar Power! The system can be built with limited spending and can provide its services in a wide range.
+</p>
+The coverage of a repeater station depends on your radio equipment: a stronger signal is capable of withstanding successive passages through obstacles, allowing it to travel farther.
 </p>
 <p>
-Nevertheless local orography and weather conditions may influence the transmission. For more informations about this aspect follow this <a href="https://github.com/zonkeynet/ZonkeyNet/wiki/Radio-info" target="_blank" title="Radio Info wiki"><b>link</b></a>.
+Nevertheless local conformation of the territory and weather conditions may influence the transmission. For more informations about this aspect follow this <a href="https://github.com/zonkeynet/ZonkeyNet/wiki/Radio-info" target="_blank" title="Radio Info wiki"><b>link</b></a>.
 </p>
 <p>
 <b><h2>What is ZonkeyNet?</h2></b>
@@ -28,10 +30,6 @@ There’s no hardware ID, and no plain text transmitter identification.
 <p>             
 <b>ZonkeyNet</b> Mesh Network Radio project uses <a href="http://sourceforge.net/projects/fldigi/files/" target="_blank" title="Fldigi Files"><b>Fldigi software</b></a> to communicate data it’s the software commonly used to broadcast <b>amateur radio stations</b> from a computer.
 The current release focuses on messaging and can be used as a simplistic message board inside a <b>LAN</b> and to rely communications between <b>radio nodes</b>. It has built-in internet gateway capabilities to offer users access to some basics, such as <b>chat on IRC</b>, <b>SMS bridge service</b>, <b>Google directions</b>, <b>bridge messages on Telegram</b>, <b>Tweeting</b>, retrieving <b>Twitter streams</b>, <b>Downloading news</b>, <b>community related articles</b>, <b>transfering images</b>, etc..
-</p>
-<p>
-   The system allready uses a simple Raspberry PI 3 as hardware and works with Solar Power!
-   The system can be built with limited spending and can nevertheless provide its services in a wide range.
 </p>
 <p>
 The configuration system is <b>fully documented in <a href="https://github.com/lulzlabs/AirChat/blob/master/README.md" target="_blank" title="ZonkeyNet Infos">ZonkeyNet</a></b>.
