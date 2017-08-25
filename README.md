@@ -14,8 +14,11 @@ __| || |__\____    /____   ____ |  | __ ____ ___.__. ____   _____/  |_
 <p>
 <b><h2>Free digital Radiocommunications network service for everyone at low cost</h2></b>
 <b>ZonkeyNet</b> Can do its job even in case of media infrastructures failure, e.g. in case of earthquake or flood: <b>ZonkeyNet</b> does not use Radio bridges or Internet Provider infrastructures, so it will work even in the event of natural disaster or war.  <b>ZonkeyNet</b> uses cheap, simple and portable infrastructures which everyone can build. The system allready uses a simple <b>Raspberry PI 3</b> as hardware and works with Solar Power! The system can be built with limited spending and can provide its services in a wide range.
+<p>
+In other words thanks to ZonkeyNet you can create and manage a long distance wifi communication service for a whole town with a very limited expense. The amplitude of the range of the system can be increased with just a small spending.
 </p>
-The coverage of a repeater station depends on your radio equipment: a stronger signal is capable of withstanding successive passages through obstacles, allowing it to travel farther.
+<p>
+The coverage of a repeater station depends on your radio equipment: a stronger signal is capable of withstanding successive passages through obstacles, allowing it to travel farther. 
 </p>
 <p>
 Nevertheless local conformation of the territory and weather conditions may influence the transmission. For more informations about this aspect follow this <a href="https://github.com/zonkeynet/ZonkeyNet/wiki/Radio-info" target="_blank" title="Radio Info wiki"><b>link</b></a>.
