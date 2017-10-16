@@ -127,6 +127,9 @@ And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/Zonk
 <b>RASPBERRY PI 3 light Image link</b>: SOON! 16GB
 </p>
 <p>
+<b>Android Devices 6.0.1 MM Image link</b>: SOON!
+</p>
+<p>
 The binary is called <b>zonkey.pl</b>. ZonkeyNet and Fldigi can be started/stopped with commands "<tt><b>zonkeynet (start:stop:restart)</b></tt>" typed in a terminal shell.
  You can also run the script by double clicking on its Desktop icon.
 </p>
