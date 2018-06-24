@@ -121,6 +121,16 @@ And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/Zonk
 <b><h2>Installation :</h2></b>
 </p>
 <p>
+   <b>You need : python; python3; perl; cpan; pip; GUI(for FLDIGI)</b>
+   perl install-modules-airchat-debian.pl ( ZonkeyNet WebServer)
+   perl zonkey.pl ( WebServer start at localhost:8080 *You can use ngrok to foward outside )
+   pip install irc ( for the bot RX_BOT )
+   edit the python bot ( es. nano rxbot.py )
+   python rxbot.py
+   python3 txbot.py
+   Connect the Radio!
+   <b>ENJOY IT!</b>
+   
 <b>RASPBERRY PI 3 Full Image link</b>: SOON! 32GB
 </p>
 <p>
