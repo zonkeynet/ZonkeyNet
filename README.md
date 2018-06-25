@@ -121,18 +121,18 @@ And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/Zonk
 <b><h2>Installation :</h2></b>
 </p>
 <p>
-   <b>You need : python; python3; perl; cpan; pip; GUI (for FLDIGI)</b>
+   <b>You need : python; python3; perl; cpan; pip; GUI (for FLDIGI); Radio equipment.</b>
    <p>
    perl install-modules-airchat-debian.pl ( ZonkeyNet WebServer)
    </p>
    <p>
-   perl zonkey.pl ( WebServer start at localhost:8080 *You can use ngrok to foward outside )
-   </p>
+   perl zonkey.pl ( WebServer start at <b>localhost:8080</b> You can use <b>ngrok</b> to foward outside )   
+  </p>
    <p>
    pip install irc ( for the bot RX_BOT )
    </p>
    <p>
-   edit the python bot ( es. nano rxbot.py )
+   edit the python bots  es. nano rxbot.py
    </p>
    <p>
    python rxbot.py
