@@ -106,6 +106,33 @@ and much more!!!
 </p>
 <hr>
 </hr>
+<b><h3>USER CASES</h3></b>
+<ul>
+<li>
+<p>People who were protesting against their govt resulting in the their internet being cut off. Even worse govt decided to fuck with their cellphones networks too. They need basic communication tools to spread news and updates about their conditions, and with the aim to eventually relay that information to/from the internet when at least one of them is able to get a working internet connection.</p>
+</li>
+<li>
+<p>NGOs and medical teams working in Africa under poor conditions who want to build some basic communication's infrastructure to coordinate efforts like the delivery of medication and food or to update on local conditions without being intercepted by regional armed groups etc.</p>
+</li>
+<li>
+<p>Dissident groups who mistrust the normal communication infrastructure and who want to coordinate regional activity and share updates about oppressive actions carried out by the authorities.</p>
+</li>
+<li>
+<p>Disaster response, rescue and medical teams who are working in devastated zones without the availability of standard telecommunication infrastructure. They want to keep updating their statuses, progress and resource availability between teams when there may be large overage zones between them.</p>
+</li>
+<li>
+<p>Yacht owners who are sailing and who wish to obtain news updates from some approaching coastline or another ship which has internet access. There may just be a simple exchange of information about news, weather conditions, provisions, gear etc.</p>
+</li>
+<li>
+<p>Local populations who want to keep in touch with each other on a daily basis with the goal of developing a strong community capable of maximizing their resources, food or manpower to help improve sustainability and their quality of life.</p>
+</li>
+<li>
+<p>Street protests or any other street event where people would like to share their thoughts, anonymously and locally without relying on the internet. They may also wish to share them with the world as a single voice using a simple gateway such as a unique Twitter account made for the occasion.</p>
+</li>
+<li>
+<p>Expedition basecamps who need a simplistic solution to build a common gateway for establishing radio communication and messaging service links with camps, remotely located basecamps and/or rescue teams to coordinate tasks such as logistics, rescue efforts, routes and schedules.</p>
+</li>
+</ul>
 <p>
 <b><h3>SELF HOSTED SERVICES</h3></b>
 </p>
