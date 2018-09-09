@@ -147,29 +147,51 @@ And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/Zonk
 <p>
 <b><h2>Installation :</h2></b>
 </p>
+<ul>
 <p>
-   <b>You need : python; python3; perl; cpan; pip; GUI (for FLDIGI); Radio equipment.</b>
+   <b>You will need : python; python3; perl; cpanplus; pip; GUI (for FLDIGI); Radio equipment.</b>
+   <p>
+      ####<b>Linux</b> (<b>Debian / Ubuntu</b>) Install some needed stuff:
+   </p> 
+   <li>
+   <p>
+      apt-get install make cpanplus libcpanplus-perl libhttp-server-simple-perl libcrypt-cbc-perl libcrypt-rijndael-perl librpc-xml-perl libxml-feedpp-perl liblwp-protocol-socks-perl libnet-twitter-lite-perl libnet-server-perl
+   </p>
+   </li>
+   <li>
    <p>
    perl install-modules-airchat-debian.pl ( ZonkeyNet WebServer)
    </p>
+   </li>
+   <li> 
    <p>
-   perl zonkey.pl ( WebServer start at <b>localhost:8080</b> You can use <b>ngrok</b> to foward outside )   
+   perl zonkey.pl ( WebServer start at <b>localhost:8080</b> You can use <a href="https://ngrok.com/"><b>ngrok</b></a> to foward outside )   
   </p>
+   <li>
    <p>
    pip install irc ( for the bot RX_BOT )
    </p>
+   </li>
+   <li>
    <p>
    edit the python bots  es. nano rxbot.py
    </p>
+   </li>
+   <li>
    <p>
    python rxbot.py
    </p>
+   </li>
+   <li>
    <p>
    python3 txbot.py
    </p>
+   </li>
+   <li>
    <p>
    Connect the Radio!
    </p>
+   </li>    
    <p>
    <b>ENJOY IT!</b>
    
