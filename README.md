@@ -191,7 +191,8 @@ And of course the <b>NEW BOTS</b> to create a bridge between the <b>Airchat/Zonk
    <p>
    Connect the Radio!
    </p>
-   </li>    
+   </li>
+   </ul>
    <p>
    <b>ENJOY IT!</b>
    
