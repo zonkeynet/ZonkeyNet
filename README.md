@@ -35,7 +35,7 @@ There’s no hardware ID, and no plain text transmitter identification.
 The current release focuses on messaging and can be used as a simplistic message board inside a <b>LAN</b> and to rely communications between <b>radio nodes</b>. It has built-in internet gateway capabilities to offer users access to some basics, such as <b>chat on IRC</b>, <b>SMS bridge service</b>, <b>Google directions</b>, <b>bridge messages on Telegram</b>, <b>Tweeting</b>, retrieving <b>Twitter streams</b>, <b>Downloading news</b>, <b>community related articles</b>, <b>transfering images</b>, etc..
 </p>
 <p>
-The configuration system is <b>fully documented in <a href="https://github.com/lulzlabs/AirChat/blob/master/README.md" target="_blank" title="ZonkeyNet Infos">ZonkeyNet</a></b>.
+The configuration system is <b>fully documented in <a href="https://github.com/zonkeynet/ZonkeyNet/wiki/Installation" target="_blank" title="ZonkeyNet Infos">ZonkeyNet</a></b>.
 Refer to this for the full documentation.
 </p>
 <hr>
